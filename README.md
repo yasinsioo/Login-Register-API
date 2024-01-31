@@ -4,4 +4,4 @@ Node.js - Express.js - MongoDB
 
 Error handlers,
 Token verifications,
-Nodemailer,
+Nodemailer
